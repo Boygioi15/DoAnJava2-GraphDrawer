@@ -11,6 +11,7 @@ The core of this project revolves around 3 main algorithm:
  - The expression evaluation algorithm(1).
  - The graph plotting algorithm(2).
  - The funcion reference functions(3).
+
 The (1) algorithm is used by (2) to calculate the data. Then the (2) algorithm is used to visualize the graph data onto the screen. It consist of 2 parts:
  - Draw the canvas in the background.
  - Draw the graph line in the foreground. 
