@@ -14,8 +14,8 @@ The core of this project revolves around 3 main algorithm:
 
 The (1) algorithm is used by (2) to calculate the data. Then the (2) algorithm is used to visualize the graph data onto the screen. It consist of 2 parts:
  - Draw the canvas in the background.
- - Draw the graph line in the foreground. 
-Aside from that, the (3) algorithm is used to make graph like f(x) = sin(g(x)) possible
+ - Draw the graph line in the foreground.
+ - Aside from that, the (3) algorithm is used to make graph like f(x) = sin(g(x)) possible
 
 Main functionalities of our calculator: 
  - Functionalities : 
